@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Question 1",
+    "variants": ["a", "b", "c"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Question 2",
+    "variants": ["a", "b", "c"],
+    "correct_answer": 1
+  }
+]
